@@ -1,0 +1,49 @@
+
+The Killing Game,
+
+The game is mean to kill and to kill only,
+
+What will the game do?
+
+First we spwan in a colour full map, 
+
+then there are waves of enemies, 
+
+
+Top down view,
+
+Creating a Enemy class,
+Three Types of enemies: 
+
+1. Zombies -> strenght: 100 -> two shots(with default)
+2. Gollum -> strenght: 250 -> 5 shots(withdefault)
+3. Barbarian -> strenght: 340 -> 8 shots(with default)
+
+The main character Class()
+
+Attributes to the class;
+ - Health(eveytime)
+ - weapon(taking weapon from weapon class)
+ - movement
+ - Death(Restart)
+
+fianl Boss(optional, If I have time):
+Boss: Smaug
+strenght: 1000 -> 34 shots(with default)
+
+THings I will need for the project, 
+class, methods and other THings
+I thinking of using just shapes for the Villians. 
+
+Sound(thre different type of guns)
+
+Class guns():
+this will contain three type of guns:
+1. Glock
+2. Machine gun
+3. Shot gun
+
+Making a welcome screen
+making a exit scren and making waves of games levels. 
+
+
